@@ -1,0 +1,15 @@
+html {
+    background-color: darkcyan;
+}
+#intro {
+    text-align: center;
+    border-color: gray;
+    border-width: 15px;
+    border-style: double;
+}
+h1 {
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
